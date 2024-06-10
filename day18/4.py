@@ -1,0 +1,1 @@
+print("We put meat slabs on a skewer and grill them on the grill")
